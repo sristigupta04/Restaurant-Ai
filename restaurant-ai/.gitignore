@@ -1,0 +1,8 @@
+data/clips/
+data/evidence/
+data/ground_truth/
+data/store.json
+venv/
+node_modules/
+__pycache__/
+*.mp4
